@@ -5,7 +5,7 @@ Course: Big Data
 Platform: Google Colab and GitHub
 
 ---
-h
+
 Files Included:
 - ICP1_venkata_chaitanya.ipynb: Python code for all tasks
 - report.pdf: Screenshots of code and outputs
