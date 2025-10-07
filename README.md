@@ -6,8 +6,7 @@ Platform: Google Colab and GitHub
 
 ---
 hihih
-hihohih
-hihihi
+hihoh
 
 Files Included:
 - ICP1_venkata_chaitanya.ipynb: Python code for all tasks
