@@ -1,4 +1,4 @@
-jnknICP 1 – In-Class Programming Assignment
+jnICP 1 – In-Class Programming Assignment
 
 Name: Venkata Chaitanya Kolicharamu  
 Course: Big Data  
